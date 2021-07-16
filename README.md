@@ -20,4 +20,4 @@ This is a simple todo app that allows you to add, mark as complete, and remove t
 
 - As I learn more CSS, I will implement my own styling instead of using outside frameworks.
 - In the future, I want to implement firebase so that the todos and be stored and accessed from a personal account.
-- This is a new line in the readme file
+
