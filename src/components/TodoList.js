@@ -8,7 +8,7 @@ const TodoList = (props) => {
     });
 
     return (
-        <div className="ui three column grid">
+        <div className="ui one column grid">
             {renderedTodos}
         </div>
     )
