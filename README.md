@@ -6,7 +6,7 @@ Hello World! This is one of the first applications I made from scratch on the jo
 
 This is a simple todo app that allows you to add, mark as complete, and remove todos. You can check out this app by cloning the repo or accessing the link below!
 
-- https://todo-redux-markishou.vercel.app/
+- https://todo-app-markishou.vercel.app/
 
 ![Screenshot of app](./imgs/todo-app.png)
 
