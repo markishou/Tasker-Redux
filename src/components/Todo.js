@@ -16,21 +16,12 @@ const Todo = ({ todo, completeTodo, removeTodo }) => {
 
     return (
         <div className="column">
-            <div className="ui green fluid card">
+            <div className="ui teal fluid card">
                 <div className="content">
-                <i className="right floated close icon remove" onClick={onRemoveClick}></i>
+                    <i className="close icon remove" onClick={onRemoveClick}></i>
+                    <i className={`check icon complete ${todo.completed? 'completedArrow' : ''}`} onClick={onCompletedClick}></i>
                     <div className={`description ${todo.completed ? 'completed' : ''}`}>
                         {todo.task}
-                    </div>
-                </div>
-                <div className="extra content">
-                    <div className="ui two buttons">
-                        <div 
-                            className={`ui basic green button ${todo.completed ? 'disabled' : ''}`} 
-                            onClick={onCompletedClick}
-                        >
-                            Complete
-                        </div>
                     </div>
                 </div>
             </div>

@@ -7,10 +7,27 @@
     text-decoration: line-through;
 }
 
-.remove {
-    color: black;
-}
-.remove:hover {
-  color: lightslategray;
+.completedArrow {
+    color: lightgray !important;
 }
 
+.remove {
+    color: black;
+    position: relative;
+    top: 0px;
+    left: 1079px;
+}
+.remove:hover {
+  color: lightcoral;
+}
+
+.complete {
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 1060px;
+}
+
+.complete:hover {
+    color: lightgreen;
+}

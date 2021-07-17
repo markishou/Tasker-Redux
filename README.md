@@ -8,7 +8,7 @@ This is a simple todo app that allows you to add, mark as complete, and remove t
 
 - https://todo-redux-markishou.vercel.app/
 
-![Screenshot of app](./imgs/todo-app-pic.png)
+![Screenshot of app](./imgs/todo-app.png)
 
 ## Languages used
 

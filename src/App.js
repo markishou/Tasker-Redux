@@ -4,7 +4,7 @@ import TodoList from './components/TodoList';
 
 const App = () => {
     return (
-        <div>
+        <div className="ui very padded container">
             <Form/>
             <TodoList/>
         </div>
