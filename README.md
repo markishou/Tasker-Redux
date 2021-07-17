@@ -2,6 +2,8 @@
 
 Hello World! This is one of the first applications I made from scratch on the journey to become a frontend eng/dev. I hope you enjoy!
 
+![Screenshot of app](./imgs/todo-app-ss.png)
+
 ## Description
 
 This is a simple todo app that allows you to add, mark as complete, and remove todos. You can check out this app by cloning the repo or accessing the link below!
