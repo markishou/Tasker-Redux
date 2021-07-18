@@ -2,6 +2,7 @@ import React from 'react';
 import { uploadTodo } from '../actions';
 import { setTodoText } from '../actions';
 import { connect } from 'react-redux';
+import todoList from '../css/todoList.css';
 
 const Form = ({ todo, uploadTodo, setTodoText }) => {
     const onSubmit = (e) => {
