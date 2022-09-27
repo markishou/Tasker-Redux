@@ -1,4 +1,4 @@
-# Simple Todo App
+# Tasker
 
 Hello World! This is one of the first applications I made from scratch on the journey to become a frontend eng/dev. I hope you enjoy!
 
